@@ -1,0 +1,12 @@
+C:\Users\Reyna\source\repos\User_Master\Helper\bin\Debug\net8.0\Helper.deps.json
+C:\Users\Reyna\source\repos\User_Master\Helper\bin\Debug\net8.0\Helper.dll
+C:\Users\Reyna\source\repos\User_Master\Helper\bin\Debug\net8.0\Helper.pdb
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.csproj.AssemblyReference.cache
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.AssemblyInfo.cs
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.dll
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\refint\Helper.dll
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\Helper.pdb
+C:\Users\Reyna\source\repos\User_Master\Helper\obj\Debug\net8.0\ref\Helper.dll

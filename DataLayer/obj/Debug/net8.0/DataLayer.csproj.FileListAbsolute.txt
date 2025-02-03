@@ -1,0 +1,14 @@
+C:\Users\Reyna\source\repos\User_Master\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\Reyna\source\repos\User_Master\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+C:\Users\Reyna\source\repos\User_Master\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\Reyna\source\repos\User_Master\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+C:\Users\Reyna\source\repos\User_Master\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
